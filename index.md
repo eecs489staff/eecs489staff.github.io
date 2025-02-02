@@ -1,3 +1,7 @@
+---
+layout: spec
+---
+
 # Hello World
 
 This is a test page.
